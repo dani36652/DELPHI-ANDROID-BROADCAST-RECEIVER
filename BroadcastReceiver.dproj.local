@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/29 15:13:24.000.166,=C:\Users\drodriguez\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/29 15:18:36.000.392,C:\Users\drodriguez\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\drodriguez\Documents\Embarcadero\Studio\Projects\UMain.pas</Transaction>
+    <Transaction>2024/10/29 15:18:36.000.392,C:\Users\drodriguez\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\drodriguez\Documents\Embarcadero\Studio\Projects\UMain.fmx</Transaction>
+    <Transaction>2024/10/29 15:18:50.000.892,C:\Users\drodriguez\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\drodriguez\Documents\Embarcadero\Studio\Projects\BroadcastReceiver.dproj</Transaction>
+    <Transaction>2024/10/29 15:38:14.000.492,C:\Users\drodriguez\Documents\Embarcadero\Studio\Projects\UMain.pas=C:\Users\drodriguez\Desktop\BroadcastReceiver\UMain.pas</Transaction>
+    <Transaction>2024/10/29 15:38:14.000.492,C:\Users\drodriguez\Documents\Embarcadero\Studio\Projects\UMain.fmx=C:\Users\drodriguez\Desktop\BroadcastReceiver\UMain.fmx</Transaction>
+    <Transaction>2024/10/29 15:38:16.000.000,C:\Users\drodriguez\Documents\Embarcadero\Studio\Projects\BroadcastReceiver.dproj=C:\Users\drodriguez\Desktop\BroadcastReceiver\BroadcastReceiver.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="9LYPFMTSXC6HRS45"/>
+	</ActiveMobileDevice>
+</BorlandProject>
